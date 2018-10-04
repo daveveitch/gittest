@@ -1,3 +1,7 @@
 Draft intro to PhD thesis, having a blast.
 
 Title: Git Workshop
+
+## Introduction ##
+
+Having a blast learning some Git. Git Git Git. Go Git.
