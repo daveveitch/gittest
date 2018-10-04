@@ -1,0 +1,3 @@
+Draft intro to PhD thesis, having a blast.
+
+Title: Git Workshop
