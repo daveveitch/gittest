@@ -5,3 +5,5 @@ Title: Changed
 ## Introduction ##
 
 Having a blast learning some Git. Git Git Git. Go Git.
+
+Doing some adds, commits, git.
